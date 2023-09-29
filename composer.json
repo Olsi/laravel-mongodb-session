@@ -1,5 +1,5 @@
 {
-    "name": "1ff/laravel-mongodb-session",
+    "name": "olsi/laravel-mongodb-session",
     "description": "A mongodb session driver for laravel",
     "type": "library",
     "version": "5.0.2",
